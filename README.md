@@ -2,7 +2,11 @@ This project is bootstrapped with [`create-next-app`](https://github.com/vercel/
 
 ## Getting Started
 
-First, Install npm(node modules) using npm install
+First, Install npm(node modules) using
+```bash
+npm install
+```
+
 then run the development server:
 
 ```bash
